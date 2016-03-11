@@ -1,10 +1,9 @@
 # Site settings
 title: Peter's General Store
 email: hhww.gao@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "url:"
   I am a programmer and maker.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://hwgao.github.io" # the base hostname & protocol for your site
 twitter_username: hwgao
 github_username:  hwgao
 
