@@ -1,8 +1,8 @@
 # Site settings
-title: Peter's General Store
+title: Peter Gao's Blog 
 email: hhww.gao@gmail.com
 description: > # this means to ignore newlines until "url:"
-  I am a programmer and maker.
+  Programming, 3D Print, IoT and all that good staff
 url: "http://hwgao.github.io" # the base hostname & protocol for your site
 twitter_username: hwgao
 github_username:  hwgao
