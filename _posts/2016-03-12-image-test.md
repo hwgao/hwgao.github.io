@@ -3,4 +3,4 @@ layout: post
 title: image test
 ---
 
-[Test image](/assets/1.jpg)
+[3D Printing Minions](/assets/minions.jpg)
